@@ -4,6 +4,7 @@ Hello this is my _jank_ website to display my _jank_ (ish) assignments from tech
 ![a-businessman-trapped-inside-a-laptop-computer-on-a-white-desk-and-FT1K8Y](https://github.com/user-attachments/assets/99b0d527-c6df-43c3-8d37-d289080a6c38)
 ![image2](portfolio/2IMG_0943.jpg)
 
+
 ![image2](portfolio/2IMG_9757.jpg)
 ![image2](portfolio/2IMG_0965.jpg)
 ![image2](portfolio/vfgghm.mov)
